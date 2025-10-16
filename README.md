@@ -1,7 +1,3 @@
-Got it 👍 — here’s your **simplified `README.md`** tailored specifically for the **Android version** of your Civic Issue Reporter App.
-
----
-
 ```markdown
 # 🏙️ Civic Issue Reporter App (Android)
 
